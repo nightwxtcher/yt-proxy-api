@@ -1,0 +1,22 @@
+{
+  "name": "yt-proxy-api",
+  "version": "1.0.0",
+  "description": "High-performance YouTube Proxy API with search and video streaming capabilities.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "youtube",
+    "proxy",
+    "api",
+    "streaming",
+    "search"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
